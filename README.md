@@ -1,4 +1,4 @@
-# 100-Days-Coding-Challenge--JAVA
+# 100-Days-Coding-Challenge-JAVA
 
 📌Day 1: Hello, World!
 

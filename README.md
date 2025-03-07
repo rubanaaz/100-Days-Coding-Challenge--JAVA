@@ -25,3 +25,11 @@ Problem Statement: Write a Java program that accepts input from a user for a par
 Problem Statement: Develop a Java program that accepts two numbers from the user and displays their addition and multiplication.
 
 Change the words but the meaning has to be same and the format
+
+📌Day 4: Sum of Two Integers Using + Operator
+
+Problem Statement: Write a Java program to calculate the sum of two integers using the + operator
+
+📌Day 4: Area of a Triangle
+
+Problem Statement: Write a Java program to calculate the area of a triangle using the formula: (1/2) * base * height.

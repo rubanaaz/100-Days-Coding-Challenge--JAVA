@@ -41,3 +41,11 @@ Problem Statement: Develop a Java program that converts a specified float number
 📌Day 5: Area of a Circle
 
 Problem Statement: The problem here is to prepare the Java program to read a radius and calculate the area of a circle. Make sure the area is of type double. The input is the radius of the circle; the output is the calculated area of the circle (use pi=3.14).
+
+Day 6: Check if a Number is Positive or Negative
+
+Problem Statement: Create a Java program that determines whether a given number is positive or negative.
+
+📌Day 6: Check if a Year is a Leap Year
+
+Problem Statement: Develop a Java program to verify if a specified year is a leap year, following the rules for leap years. A year qualifies as a leap year if it can be divided by 4. However, if it is divisible by 100, it is not considered a leap year unless it is also divisible by 400.

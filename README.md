@@ -49,3 +49,19 @@ Problem Statement: Create a Java program that determines whether a given number 
 📌Day 6: Check if a Year is a Leap Year
 
 Problem Statement: Develop a Java program to verify if a specified year is a leap year, following the rules for leap years. A year qualifies as a leap year if it can be divided by 4. However, if it is divisible by 100, it is not considered a leap year unless it is also divisible by 400.
+
+📌Day 7: Determine if a Number is Even or Odd using Logical Operators.
+
+Problem Statement: Create a Java program to determine whether a specified number is even or odd by utilizing logical operators.
+
+📌Day 7: Compute Compound Interest
+
+Problem Statement: Develop a Java program to compute compound interest based on principal, rate, and time. Compound Interest Formula: A = P(1 + R/100)^T Where 'A' represents the total amount, 'P' is the principal amount, 'R' is the interest rate, and 'T' is the duration in years.
+
+📌Day 8: Identify the Largest of Two Numbers
+
+Problem Statement: Write a Java program to identify the largest of two numbers.
+
+📌Day 8: Identify the Largest of Three Numbers using If-Else Statements
+
+Problem Statement: Write a Java program to identify the largest of three numbers by employing if-else statements.

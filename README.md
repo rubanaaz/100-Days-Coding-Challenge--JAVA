@@ -65,3 +65,11 @@ Problem Statement: Write a Java program to identify the largest of two numbers.
 📌Day 8: Identify the Largest of Three Numbers using If-Else Statements
 
 Problem Statement: Write a Java program to identify the largest of three numbers by employing if-else statements.
+
+📌Day 9: Compute Income Tax According to Income Brackets
+
+Problem Statement: Develop a Java program to compute income tax based on income brackets.
+
+📌Day 9: Determine if a Number is Even or Odd and Display the Outcome
+
+Problem Statement: Create a Java program to determine if a number is even or odd and display the outcome.

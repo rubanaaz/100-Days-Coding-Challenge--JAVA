@@ -73,3 +73,11 @@ Problem Statement: Develop a Java program to compute income tax based on income 
 📌Day 9: Determine if a Number is Even or Odd and Display the Outcome
 
 Problem Statement: Create a Java program to determine if a number is even or odd and display the outcome.
+
+📌Day 10: Discovering the Maximum of Two Numbers with the Ternary Operator
+
+Problem Statement: Create a Java program that determines the maximum of two numbers by utilizing the ternary operator.
+
+📌Day 10: Building a Basic Calculator with a Switch Statement
+
+Problem Statement: Develop a Java program to create a straightforward calculator using a switch statement.

@@ -81,3 +81,11 @@ Problem Statement: Create a Java program that determines the maximum of two numb
 📌Day 10: Building a Basic Calculator with a Switch Statement
 
 Problem Statement: Develop a Java program to create a straightforward calculator using a switch statement.
+
+📌Day 11: Print Numbers from 1 to 10 Using a While Loop
+
+Problem Statement: Create a Java program that prints numbers from 1 to 10 using a while loop.
+
+📌Day 11: Calculate the Sum of the First N Natural Numbers Using a While Loop
+
+Problem Statement: Develop a Java program to compute the sum of the first N natural numbers using a while loop.

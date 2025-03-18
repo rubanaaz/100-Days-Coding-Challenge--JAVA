@@ -1,0 +1,21 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+     
+        String inputStr = scanner.nextLine();
+        
+        String reversedStr = "";
+        
+        for (int i = inputStr.length() - 1; i >= 0; i--) {
+            reversedStr += inputStr.charAt(i);  
+        }
+        System.out.println(reversedStr);
+    }
+}

@@ -89,3 +89,35 @@ Problem Statement: Create a Java program that prints numbers from 1 to 10 using 
 📌Day 11: Calculate the Sum of the First N Natural Numbers Using a While Loop
 
 Problem Statement: Develop a Java program to compute the sum of the first N natural numbers using a while loop.
+
+📌Day 12: Print a Square Pattern of Asterisks Using a For Loop
+
+Problem Statement: Create a Java program that prints a square pattern made of asterisks.
+
+📌Day 12: Reverse a Given Number Using a For Loop
+
+Problem Statement: Develop a Java program to reverse a specified number using a for loop.
+
+📌Day 13: Reverse a Given String
+
+Problem Statement: Write a Java program that reverses a given string.
+
+📌Day 13: Check If a Number Is Prime Using a For Loop
+
+Problem Statement: Construct a Java program to determine if a number is prime or not using a for loop.
+
+📌Day 14: Calculate the Factorial of a Number Using a do-while Loop
+
+Problem Statement: Write a Java program to compute the factorial of a number using a do-while loop.
+
+📌Day 14: Find the Sum of Prime Numbers in a Given Range Using a do-while Loop
+
+Problem Statement: Create a Java program to calculate the sum of prime numbers within a specified range using a do-while loop.
+
+📌Day 15: Print the Fibonacci Series Up to a Given Number Using a for Loop
+
+Problem Statement: Write a Java program to display the Fibonacci series up to a certain number using a for loop.
+
+📌Day 15: Find All Prime Numbers in a Given Range Using a for Loop
+
+Problem Statement: Develop a Java program to identify all prime numbers in a specified range using a for loop.

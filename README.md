@@ -121,3 +121,19 @@ Problem Statement: Write a Java program to display the Fibonacci series up to a 
 📌Day 15: Find All Prime Numbers in a Given Range Using a for Loop
 
 Problem Statement: Develop a Java program to identify all prime numbers in a specified range using a for loop.
+
+📌Day 16: Calculate the Sum of an Array of Integers
+
+Problem Statement: Create a Java program to calculate the sum of an array of integers.
+
+📌Day 16: Identify the Maximum Element in an Array
+
+Problem Statement: Develop a Java program to identify the maximum element in an array.
+
+📌Day 17: Display a Simple Right-Angled Triangle Pattern of Asterisks
+
+Problem Statement: Write a Java program to display a simple right-angled triangle pattern made of asterisks.
+
+📌Day 17: Print a Hollow Square Pattern of Asterisks
+
+Problem Statement: Write a Java program to print a hollow square pattern using asterisks.

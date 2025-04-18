@@ -137,3 +137,35 @@ Problem Statement: Write a Java program to display a simple right-angled triangl
 📌Day 17: Print a Hollow Square Pattern of Asterisks
 
 Problem Statement: Write a Java program to print a hollow square pattern using asterisks.
+
+📌Day 18: Create an Inverted Right-Angled Triangle Pattern of Asterisks
+
+Problem Statement: Develop a Java program that prints an inverted right-angled triangle pattern using asterisks.
+
+📌Day 18: Create a Butterfly Pattern of Asterisks
+
+Problem Statement: Develop a Java program that prints a butterfly pattern made of asterisks.
+
+📌Day 19: Create a Java program to print a half pyramid pattern of numbers.
+
+Problem Statement: Write a Java program that displays a half pyramid pattern of numbers. This pattern should consist of 'n' rows, where 'n' is an integer input.
+
+📌Day 19: Create a Java program to print a character pattern
+
+Problem Statement: Write a Java program that generates a character pattern based on the number of rows 'n' (where 'n' is an integer input). The pattern should feature uppercase English letters starting from 'A' and increasing with each row.
+
+📌Day 20: Solid Rhombus pattern of asterisks
+
+Problem Statement: Write a Java program to print a solid rhombus pattern of asterisks based on the number of rows 'n' (where 'n' is an integer input). The pattern should create a rhombus shape using asterisks.
+
+📌Day 20: Hollow Rhombus pattern of asterisks
+
+Problem Statement: Write a Java program to print a hollow rhombus pattern of asterisks based on the number of rows 'n' (where 'n' is an integer input). The pattern should form a rhombus with asterisks, leaving the inside empty.
+
+📌Day 21: Java function to find the factorial of a number
+
+Problem Statement: Write a Java function called calculateFactorial that computes and returns the factorial of a specified integer 'n'. The function should accept an integer 'n' as input and return an integer representing the factorial of 'n'.
+
+📌Day 21: Java function to calculate the nth term of the Fibonacci sequence
+
+Problem Statement: Write a Java function named calculateFibonacci that computes and returns the nth term of the Fibonacci sequence.

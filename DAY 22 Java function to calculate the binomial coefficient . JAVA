@@ -1,0 +1,29 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+    public static int calculateBinomialCoefficient(int n, int k) {
+        if (k < 0 || k > n) return 0;
+        if (k == 0 || k == n) return 1;
+
+        int result = 1;
+
+        if (k > n - k) {
+            k = n - k;
+        }
+        for (int i = 0; i < k; i++) {
+            result *= (n - i);
+            result /= (i + 1);
+        }
+        return result;
+    }
+    public static void main(String[] args) {
+        Scanner sr = new Scanner(System.in);
+        int n = sr.nextInt();
+        int k = sr.nextInt();
+        System.out.println(calculateBinomialCoefficient(n, k)); 
+    }
+}

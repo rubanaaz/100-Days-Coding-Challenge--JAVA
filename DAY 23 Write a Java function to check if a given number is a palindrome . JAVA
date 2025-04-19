@@ -1,0 +1,27 @@
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+    public static boolean isPalindrome(int num) {
+        if (num < 0) return false;
+
+        int originalNum = num;
+        int reversed = 0;
+
+        while (num != 0) {
+            int digit = num % 10;
+            reversed = reversed * 10 + digit;
+            num /= 10;
+        }
+        return originalNum == reversed;
+    }
+    public static void main(String[] args) {
+        Scanner sr = new Scanner(System.in);
+        
+        int num = sr.nextInt();
+        System.out.println(isPalindrome(num));
+    }
+}

@@ -169,3 +169,23 @@ Problem Statement: Write a Java function called calculateFactorial that computes
 📌Day 21: Java function to calculate the nth term of the Fibonacci sequence
 
 Problem Statement: Write a Java function named calculateFibonacci that computes and returns the nth term of the Fibonacci sequence.
+
+📌Day 22: Create a Java function to compute the sum of two integers
+
+Task Overview: Develop a Java function called calculateSum that computes and returns the sum of two integers, 'a' and 'b'. This function should accept 'a' and 'b' as inputs and return their sum as an integer. Function Signature: int calculateSum(int a, int b)
+
+📌Day 22: Create a Java function to determine the binomial coefficient (n choose k)
+
+Task Overview: Develop a Java function named calculateBinomialCoefficient that calculates and returns the binomial coefficient C(n, k). This function should take two integers, 'n' and 'k', as inputs and return the binomial coefficient C(n, k) as an integer. Function Signature: int calculateBinomialCoefficient(int n, int k)
+
+📌Day 23: Create a Java function to verify if a number is a palindrome
+
+Task Overview: Write a Java function called isPalindrome that checks whether a given integer 'num' is a palindrome. A palindrome is a number that reads the same forwards and backwards. The function should take an integer 'num' as input and return a boolean value (true if 'num' is a palindrome, false otherwise). Function Signature: boolean isPalindrome(int num)
+
+📌Day 23: Create a Java program to identify all prime numbers within a specified range using a custom function
+
+Task Overview: Write a Java program that identifies and displays all prime numbers within a specified range [start, end]. The program should utilize a custom function named isPrime to determine if a number is prime. This function should take an integer 'num' as input and return a boolean value (true if 'num' is prime, false otherwise). Function Signature: boolean isPrime(int num)
+
+📌Day 24: Create a Java program to convert a binary number to decimal using a custom function
+
+Task Overview: Write a Java program that converts a binary number, represented as a string, into its decimal equivalent. The program should employ a user-defined function to perform this conversion.
